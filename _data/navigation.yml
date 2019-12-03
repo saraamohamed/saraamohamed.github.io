@@ -2,8 +2,8 @@
 
 main:
   - title: "Home"
-    url: /
+    url: /Home
   - title: "My Resume"
-    url: /docs/Resume/
+    url: /_pages/Resume/
   - title: "Blogs"
     url: /_posts/2019-12-04-hccv1/
