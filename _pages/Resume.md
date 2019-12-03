@@ -15,7 +15,7 @@
 * Anime & Reading about technology
 * Programming
 
-## Work Exerience
+## Work Experience
 
 * Representative of SBME Class 2021
 * Former Information Technology Member at BEAT
