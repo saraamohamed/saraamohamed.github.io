@@ -6,6 +6,6 @@ main:
   - title: "About"
     url: /docs/About/
   - title: "Blogs"
-    url: /posts/hccv1/
+    url: /blog/hccv1/
   - title: "Projects"
     url: https://google.com
