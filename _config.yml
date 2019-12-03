@@ -109,16 +109,10 @@ analytics:
 author:
   name             : "Abdullah Mohammed"
   avatar           : "/assets/images/bio-photo.png"
-  bio              : "I am an **amazing** person."
-  location         : "Cairo, Egypt"
+  bio              : "Systems & Biomedical Engineering Student at Cairo University"
+  location         : "Giza, Egypt"
   email            : "abdullah.m.alrefaey@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:abdullah.m.alrefaey@gmail.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
     - label: "Linkedin"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://www.linkedin.com/in/abdullah-alrefaey/"
