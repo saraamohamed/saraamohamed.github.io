@@ -2,10 +2,8 @@
 
 main:
   - title: "Home"
-    url: /docs/Home/
-  - title: "About"
-    url: /docs/About/
+    url: /
+  - title: "My Resume"
+    url: /docs/Resume/
   - title: "Blogs"
     url: /_posts/2019-12-04-hccv1/
-  - title: "Projects"
-    url: https://google.com
