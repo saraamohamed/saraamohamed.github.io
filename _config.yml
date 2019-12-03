@@ -83,10 +83,10 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:
-  username               :
-facebook:
-  username               :
+linkedin: 
+  username               : https://www.linkedin.com/in/abdullah-alrefaey/
+facebook: 
+  username               : https://www.facebook.com/abdullah.m.alrefaey
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -107,52 +107,40 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Abdullah Mohammed"
+  avatar           : "/assets/images/bio-photo.png"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  location         : "Cairo, Egypt"
+  email            : "abdullah.m.alrefaey@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:abdullah.m.alrefaey@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
+    - label: "Linkedin"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://www.linkedin.com/in/abdullah-alrefaey/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/abdullah.m.alrefaey"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/Abdullah-Alrefaey"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
+    - label: "Linkedin"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://www.linkedin.com/in/abdullah-alrefaey/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.facebook.com/abdullah.m.alrefaey"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://github.com/Abdullah-Alrefaey"
 
 
 # Reading Files
