@@ -21,9 +21,9 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Abdullah Alrefaey"
 description              : "An amazing website."
-url                      : "https://abdullah-alrefaey.github.io" # the base hostname & protocol for your site e.g. 
-baseurl                  : "/blog" # the subpath of your site, e.g. 
-repository               : "abdullah-alrefaey/abdullah-alrefaey.github.io" # GitHub username/repo-name e.g. 
+url                      : #"https://abdullah-alrefaey.github.io" # the base hostname & protocol for your site e.g. 
+baseurl                  : #"/blog" # the subpath of your site, e.g. 
+repository               : #"abdullah-alrefaey/abdullah-alrefaey.github.io" # GitHub username/repo-name e.g. 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo_90x90.jpg" # path of logo image to display in the masthead, e.g. 
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
