@@ -1,6 +1,4 @@
-﻿
-
-# Our Machine Learning Model consists of some steps:
+﻿# Our Machine Learning Model consists of some steps:
 1. Preparing the dataset  
 2. Pre-processing Stage:  
     * Missing Values
