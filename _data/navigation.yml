@@ -2,7 +2,7 @@
 
 main:
   - title: "Home"
-    url: /Home
+    url: /
   - title: "My Resume"
     url: /_pages/Resume/
   - title: "Blogs"
