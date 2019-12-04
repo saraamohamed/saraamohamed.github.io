@@ -4,6 +4,6 @@ main:
   - title: "Home"
     url: /
   - title: "My Resume"
-    url: /_pages/Resume/
+    url: /_pages/Resume.md/
   - title: "Blogs"
-    url: /_pages/2019-12-04-hcc/
+    url: /_pages/2019-12-04-hcc-detection.md/

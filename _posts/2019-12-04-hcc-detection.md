@@ -36,7 +36,7 @@ dataset <- read.csv("hcc-data.txt", header=TRUE, na.strings = "?")
     ```
     
     > In our data set there are missing values so this was the result of the above function:
-    ![Missing_Values](./MissingValues.png)
+    ![Missing_Values](../assets/images/MissingValues.png)
 
 
 ## Handling Missing Values
