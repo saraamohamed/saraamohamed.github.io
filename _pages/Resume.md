@@ -1,7 +1,3 @@
----
-title:  "My Resume"
----
-
 # My Resume
 
 <img src="../assets/images/Profile.png" alt="Abdullah-Alrefaey" width="250"/>
