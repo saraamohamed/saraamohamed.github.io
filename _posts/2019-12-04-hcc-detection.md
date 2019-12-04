@@ -1,7 +1,4 @@
-﻿---
-layout: post
-title:  "HCC Detection"
----
+﻿
 
 # Our Machine Learning Model consists of some steps:
 1. Preparing the dataset  
