@@ -2,17 +2,14 @@
 title:  "My Resume"
 ---
 
-# Welcome to My Personal Websit
-
 # My Resume
 
-<img src="./images/Profile.png" alt="Abdullah-Alrefaey" width="250"/>
+<img src="../assets/images/Profile.png" alt="Abdullah-Alrefaey" width="250"/>
 
 * Name: Abdullah Mohammed Alrefaey
 * Year of Birth: 1999
 * E-mail: abdullah.m.alrefaey@gmail.com
 * [Github](https://github.com/Abdullah-Alrefaey)
-* [HCC Blog](https://github.com/Abdullah-Alrefaey/Abdullah-Alrefaey.github.io/blob/master/posts/2019-12-03-HCC.md)
 
 ## Interests
 
