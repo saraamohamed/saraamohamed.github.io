@@ -1,3 +1,8 @@
+---
+layout: page
+title:  "My Resume"
+---
+
 # Welcome to My Personal Websit
 
 # My Resume
