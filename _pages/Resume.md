@@ -1,29 +1,50 @@
+## Welcome to My Personal Websit
+![Image](my_photo/myphoto.jpeg)
 # My Resume
+## Personal information
+* **Name**: Sara Mohamed Ali.
 
-<img src="../assets/images/Profile.png" alt="Abdullah-Alrefaey" width="250"/>
+* **E-mail**: sara.mohamed7991@gmail.com.
 
-* Name: Abdullah Mohammed Alrefaey
-* Year of Birth: 1999
-* E-mail: abdullah.m.alrefaey@gmail.com
-* [Github](https://github.com/Abdullah-Alrefaey)
+* [**Facebook**](https://www.facebook.com/profile.php?id=10000206478212).
 
-## Interests
+* [**Linkden**](https://www.linkedin.com/in/sara-mohamed-a81653147/).
 
-* Anime & Reading about technology
-* Programming
-
-## Work Experience
-
-* Representative of SBME Class 2021
-* Former Information Technology Member at BEAT
-* Former Internal Public Relation Member at K-Vector Foundation
+* [**Githup**](https://github.com/saraamohamed])
 
 ## Education
+* 3rd year, System and Biomedical Engineering, Cairo  University.
+* Graduated from “Said Zaghloul Secondary School for Girls” with 98%.
 
-* Systems and Biomedical Engineering at **Cairo University**
+## Courses:
+* Embedded system.
+* ML"intro to machine learning".
+* Introduction to HTML.
+* Android at One Million Arab Coders.
+* Advanced Robotics Workshop at K VECTOR.
+
+## Achievements and activities
+* FR &PR member at BEAT.
+* Organizer at 2nd BEAT (Biomedical Conference).
+* Participant at Hult Prize 2018.
+* Worked at:   Al- Zahra Women Charitable Society( Party Planner)
 
 ## Skills
-* C and C++
-* HTML, CSS, Bootstrap and Nodejs
-* Public Relation and Negotiation.
-* Leadership
+
+### Personal skills: 
+* Detailed and organized, Developing Supplier Relationship
+* Presentation skills
+* Responsible
+* Hard worker
+*	Faster learning
+*	Team player
+*	Positive attitude
+*	Have a good leadership personality
+*	Time Management
+*	Flexible
+*	Ability to accept constructive feedback
+
+### Technical skills: 
+* Languages: English, German.
+* Programing Language: C++, C, Python, and HTML.
+* Programs: Visual Studio, codeBlocks, Atmel studio, Proteus, Anaconda, MATLAB.
