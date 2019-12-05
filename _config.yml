@@ -16,7 +16,10 @@ minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", , "dir
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Refaey-San"
+title                    : "Sara's website
+Home
+My Resume
+"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sara Mohamed"
@@ -118,17 +121,17 @@ author:
       url: "https://www.linkedin.com/in/sara-mohamed-a81653147/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/abdullah.m.alrefaey"
+      url: "https://www.facebook.com/profile.php?id=100002064782128"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Abdullah-Alrefaey"
+      url: "https://github.com/saraamohamed"
 
 # Site Footer
 footer:
   links:
     - label: "Linkedin"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://www.linkedin.com/in/abdullah-alrefaey/"
+      url: "https://www.linkedin.com/in/sara-mohamed-a81653147/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/profile.php?id=100002064782128"
